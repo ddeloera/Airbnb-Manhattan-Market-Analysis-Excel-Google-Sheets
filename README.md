@@ -35,7 +35,7 @@ To determine which **neighborhoods and bedroom sizes** are most attractive for s
 ### 🔹 Neighborhood vs. Preferred Property Size  
 *Mapped bedroom size preferences per neighborhood to guide tailored investment decisions.*
 
-![Property Size by Neighborhood](visuals/size-by-neighborhood.jpg)
+![Property Size by Neighborhood](visuals/size-by-neighborhoods.jpg)
 
 ---
 
