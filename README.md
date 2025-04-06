@@ -54,10 +54,10 @@ To determine which **neighborhoods and bedroom sizes** are most attractive for s
 
 ---
 
-## 📂 Files Included  
-- `airbnb_market_analysis.xlsx` *(optional – or remove if not uploading raw file)*  
+## 📂 Files & Resources  
+- 📄 [View the Full Google Sheet](https://docs.google.com/spreadsheets/d/1H0SVDkSAdtrKmhV0Ld5_v5qJ1jB6mIgXA9Sl6eE9c2s/edit?usp=sharing) – Includes all pivot tables, formulas, and data modeling
 - `visuals/`: All screenshots used in this README  
-- `README.md`: Full project documentation  
+- `README.md`: Full project documentation 
 
 ---
 
