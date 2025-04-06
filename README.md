@@ -20,7 +20,7 @@ To determine which **neighborhoods and bedroom sizes** are most attractive for s
 **Metric:** Total reviews in the last 12 months  
 *Used review volume as a proxy for occupancy/demand.*
 
-![Top Neighborhoods](visuals/top-neighborhoods.png)
+![Top Neighborhoods](visuals/top-neighborhoods.jpg)
 
 ---
 
@@ -28,14 +28,14 @@ To determine which **neighborhoods and bedroom sizes** are most attractive for s
 **Metric:** Count of listings by bedroom count  
 *Identified which property sizes were most common in high-demand areas.*
 
-![Property Sizes](visuals/property-sizes.png)
+![Property Sizes](visuals/property-sizes.jpg)
 
 ---
 
 ### 🔹 Neighborhood vs. Preferred Property Size  
 *Mapped bedroom size preferences per neighborhood to guide tailored investment decisions.*
 
-![Property Size by Neighborhood](visuals/size-by-neighborhood.png)
+![Property Size by Neighborhood](visuals/size-by-neighborhood.jpg)
 
 ---
 
@@ -43,7 +43,7 @@ To determine which **neighborhoods and bedroom sizes** are most attractive for s
 **Metric:** Revenue earned (30-day actual x 12)  
 *Calculated revenue projections for listings that matched high-performance criteria.*
 
-![Revenue Estimates](visuals/revenue-estimates.png)
+![Revenue Estimates](visuals/revenue-estimates.jpg)
 
 ---
 
