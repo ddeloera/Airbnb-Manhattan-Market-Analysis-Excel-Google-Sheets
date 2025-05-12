@@ -50,7 +50,7 @@ To determine which **neighborhoods and bedroom sizes** are most attractive for s
 ## 📈 Key Insights  
 - **1-bedroom units** were the most in-demand property type in nearly all top neighborhoods, except Midtown (where studios led)  
 - Listings with the highest review volumes also tended to have higher prices and stronger revenue potential  
-- Top listings had estimated annual earnings exceeding **$60,000**, making them strong candidates for investment
+- Top listings had estimated annual earnings exceeding **$359,280**, making them strong candidates for investment
 
 ---
 
